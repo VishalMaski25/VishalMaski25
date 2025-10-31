@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:vishalmaski7633@gmail.com"><img src="https://img.shields.io/badge/Email-vishalmaski7633@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/vishal-maski"><img src="https://img.shields.io/badge/LinkedIn-Vishal%20Maski-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/vishal-maski-573495247/"><img src="https://img.shields.io/badge/LinkedIn-Vishal%20Maski-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/VishalMaski25"><img src="https://img.shields.io/badge/GitHub-VishalMaski25-black?style=for-the-badge&logo=github"></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=firefox"></a>
 </p>
